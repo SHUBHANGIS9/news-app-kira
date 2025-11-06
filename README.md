@@ -21,9 +21,11 @@ This project is a simple Python-based application that demonstrates basic file h
 4. Run `view_db.py` to view stored data in a formatted way.
 5. The project demonstrates integration of Python scripts with images and database viewing.
 
-## 📋 Requirements
-Install the following before running:
+## ⚙️ Requirements
 
+Install these dependencies before running:
+
+```bash
 pip install kivy
 pip install kivymd
 pip install newspaper3k
